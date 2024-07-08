@@ -1,5 +1,4 @@
 import './App.css';
-import 'h8k-components';
 
 import React, { useState, useEffect } from 'react';
 
